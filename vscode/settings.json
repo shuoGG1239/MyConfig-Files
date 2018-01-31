@@ -7,5 +7,4 @@
     "python.linting.enabled": false,
     "git.ignoreMissingGitWarning": true,
     "files.autoGuessEncoding": true,
-    "python.formatting.provider": "yapf",
 }
