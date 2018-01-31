@@ -1,10 +1,11 @@
 {
     "workbench.colorTheme": "Default Light+",
     "editor.minimap.enabled": false,
-    "workbench.statusBar.visible": false,
+    "workbench.statusBar.visible": true,
     "workbench.activityBar.visible": false, 
     "window.zoomLevel": -1, 
     "python.linting.enabled": false,
     "git.ignoreMissingGitWarning": true,
     "files.autoGuessEncoding": true,
+    "python.formatting.provider": "yapf",
 }
