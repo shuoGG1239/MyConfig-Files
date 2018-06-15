@@ -6,7 +6,8 @@
     "window.zoomLevel": -1, 
     "python.linting.enabled": false,
     "git.ignoreMissingGitWarning": true,
-    "files.autoGuessEncoding": true,
+
+    "files.autoGuessEncoding": true
     "explorer.confirmDelete": false,
     "editor.wordWrapColumn": 120,
     "code-runner.executorMap": {
