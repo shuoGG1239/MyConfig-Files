@@ -1,0 +1,84 @@
+{
+    "m_Id": "Default copy",
+    "m_ParentId": "",
+    "m_Entries": [
+        {
+            "identifier": {
+                "path": "Tools/Scale"
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 115,
+                    "m_Modifiers": 0
+                }
+            ]
+        },
+        {
+            "identifier": {
+                "path": "Tools/Rotate"
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 114,
+                    "m_Modifiers": 0
+                }
+            ]
+        },
+        {
+            "identifier": {
+                "path": "Tools/Move"
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 103,
+                    "m_Modifiers": 0
+                }
+            ]
+        },
+        {
+            "identifier": {
+                "path": "Main Menu/Assets/Create/Folder"
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 112,
+                    "m_Modifiers": 7
+                }
+            ]
+        },
+        {
+            "identifier": {
+                "path": "Main Menu/Assets/Create/C# Script"
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 99,
+                    "m_Modifiers": 7
+                }
+            ]
+        },
+        {
+            "identifier": {
+                "path": "Tools/Cycle Tool Modes"
+            },
+            "combinations": []
+        },
+        {
+            "identifier": {
+                "path": "Overlays/Show Tool Settings"
+            },
+            "combinations": []
+        },
+        {
+            "identifier": {
+                "path": "3D Viewport/Fly Mode Backward"
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 323,
+                    "m_Modifiers": 0
+                }
+            ]
+        }
+    ]
+}
